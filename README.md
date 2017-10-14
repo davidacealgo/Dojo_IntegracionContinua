@@ -1,4 +1,2 @@
-# TDD_empresariales
-- Camilo Perez Velez
-- Sandra Viviana Lodoño
-- Camilo Posada Angel
+# Integración continua
+- David alejandro acevedo garcía
